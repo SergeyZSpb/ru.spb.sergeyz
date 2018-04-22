@@ -1,0 +1,33 @@
+baseURL = "http://sergeyz.spb.ru/"
+
+theme = "hugo-bootstrap-premium"
+
+DefaultContentLanguage = "en"
+languageCode = "en"
+canonifyurls = true
+metaDataFormat = "toml"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+[permalinks]
+    post = "/:year/:month/:day/:filename/"
+    code = "/:filename/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "Sergey Zobnin"
+    email = "sergei.s.zobnin@gmail.com"
+
+[params]
+  bootswatchtheme = "yeti"
+  switchlang = false
+  BrandImage = "logo.png"
+  brand = "sergeyzspb" # brand image alt text.
+  topline = "Software development and software architecture"
+  footline = "code with <i class='fa fa-heart'></i>"
+  showRightSidebar = true
