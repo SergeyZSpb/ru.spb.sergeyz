@@ -26,8 +26,9 @@ paginatePath = "page"
 [params]
   bootswatchtheme = "yeti"
   switchlang = false
-  BrandImage = "logo.png"
+  BrandImage = "/logo.png"
   brand = "sergeyzspb" # brand image alt text.
   topline = "Software development and software architecture"
   footline = "code with <i class='fa fa-heart'></i>"
   showRightSidebar = true
+  mathjax = "2.7.1"
