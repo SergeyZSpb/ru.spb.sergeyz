@@ -1,0 +1,4 @@
+routes:
+  - route: '^.*\.css$'
+    headers:
+      Content-Type: 'text/css'

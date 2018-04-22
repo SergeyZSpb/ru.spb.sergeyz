@@ -1,4 +1,4 @@
-baseURL = "http://sergeyz.spb.ru/"
+baseURL = "http://ru.spb.sergeyz.s3-website.eu-central-1.amazonaws.com/"
 
 theme = "hugo-bootstrap-premium"
 
