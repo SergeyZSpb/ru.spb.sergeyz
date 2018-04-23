@@ -1,3 +1,9 @@
 [submodule "themes/hugo-bootstrap-premium"]
 	path = themes/hugo-bootstrap-premium
 	url = https://github.com/appernetic/hugo-bootstrap-premium
+[submodule "themes/manis-hugo-theme"]
+	path = themes/manis-hugo-theme
+	url = git://github.com/yursan9/manis-hugo-theme.git
+[submodule "themes/hugo-natrium-theme"]
+	path = themes/hugo-natrium-theme
+	url = https://github.com/mobybit/hugo-natrium-theme
