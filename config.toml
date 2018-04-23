@@ -39,7 +39,7 @@ pygmentsStyle = "native"
     weight = -150
 
 [params]
-    description = "Software development blog by sergeyz"
+    description = "Software development blog by sergeyz. People, software architecture (business, requirements, nfrs, architecture development, testing, governance) technologies (cloud, big data, java)."
 
     [params.logo]
     url = "logo.png"
