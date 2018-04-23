@@ -11,4 +11,7 @@ This will start as a series of posts with the summary of different architecture-
 
 This will continue with posts on different topics related to software architecture, first of these posts will be devoted to different architecture development processes. Of course, some of the posts will be devoted to particular technologies.
 
-Contacts: [sergei.s.zobnin@gmail.com](mailto:sergei.s.zobnin@gmail.com)
+Contacts:
+
+* [sergei.s.zobnin@gmail.com](mailto:sergei.s.zobnin@gmail.com)
+* Skype: sergei.s.zobnin@gmail.com
