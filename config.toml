@@ -43,6 +43,6 @@ pygmentsStyle = "native"
 
     [params.logo]
     url = "logo.png"
-    width = 350
+    width = 800
     height = 50
     alt = "Logo"
