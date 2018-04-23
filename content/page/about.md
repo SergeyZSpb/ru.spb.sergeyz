@@ -13,5 +13,5 @@ This will continue with posts on different topics related to software architectu
 
 Contacts:
 
-* [sergei.s.zobnin@gmail.com](mailto:sergei.s.zobnin@gmail.com)
-* Skype: sergei.s.zobnin@gmail.com
+* E-mail: [sergei.s.zobnin@gmail.com](mailto:sergei.s.zobnin@gmail.com)
+* Skype: [sergei.s.zobnin@gmail.com](skype:sergei.s.zobnin@gmail.com)
