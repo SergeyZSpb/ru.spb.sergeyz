@@ -1,5 +1,5 @@
 baseurl = "http://sergeyz.spb.ru/"
-title = "sergeyzspb blog"
+title = "sz sw dev blog"
 
 theme = "hugo-natrium-theme"
 
@@ -32,6 +32,11 @@ pygmentsStyle = "native"
     name = "Categories"
     url = "/categories"
     weight = -130
+
+[[menu.main]]
+    name = "SWA Reading List"
+    url = "/swa-reading-list"
+    weight = -150
 
 [params]
     description = ""
